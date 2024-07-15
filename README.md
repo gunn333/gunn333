@@ -45,7 +45,9 @@
 
 ### 🌟 Featured Projects
 
-1. **[MommyMentor](https://github.com/gunn333/MommyMentor)**: Child care and development platform with interactive features.
+1. **[NeuroVision](https://multiple-disease-prediction-apse-aiml.streamlit.app/)** : Multiple Disease Prediction using AI/ML
+2. **[KBC](https://gracygulati7.github.io/KBC/)** : A Fun & Interactive Quiz Inspired Kaun Banega Carorepati Show
+3. 
 
 ### 🏆 GitHub Trophies
 <br>
