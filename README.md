@@ -29,5 +29,9 @@
 <img align="left" alt="gunn.arora23496 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 
+<a href="https://leetcode.com/u/gunn333be/">
+<img align="left" alt="Gunn Arora | Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
+</a>
+
 <a href="https://medium.com/@nikhilshrivastava175" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gunn333" height="25" width="25" />
 </a>   
