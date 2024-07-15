@@ -2,9 +2,17 @@
 <h3 align="center">A passionate Full Stack Developer and an Open-Source Enthusiast </h3>
 <br>
 
-[![GitHub gunn333](https://img.shields.io/github/followers/gunn333?label=follow&style=social)](https://github.com/gunn333)
-[![Linkedin: Gunn Arora](https://img.shields.io/badge/-Gunn%20Arora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunn-arora-3a0a9b291/)](https://www.linkedin.com/in/gunn-arora-3a0a9b291/)
-<img src="https://komarev.com/ghpvc/?username=gunn333&label=Visitors&color=blue&style=plastic" alt="gunn333" /> 
+<p align="center">
+  <a href="https://github.com/gunn333">
+    <img src="https://img.shields.io/github/followers/gunn333?label=follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/gunn-arora-3a0a9b291/">
+    <img src="https://img.shields.io/badge/-Gunn%20Arora-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gunn333&label=Visitors&color=blue&style=plastic" alt="Profile views">
+</p>
+
+<br>
 
 - 👨‍💻 3rd Year Undergraduate Student @ Chitkara University
 - 🌱 Currently learning MERN stack
