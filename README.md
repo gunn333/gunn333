@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi👋, I am Gunn Arora
+
+ I am a Full stack Web Developer | 3rd Year Undergraduate Computer Science Student
+
+- I am currently working and learning mern stack
+- Ask me about Web Development
+- How to Reach me : gunn333.be22@chitkara.edu.in
+- Fun-Fact : Born to be a writer, forced to be a coder
+
+
+
+
 
 <!--
 **gunn333/gunn333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
