@@ -1,4 +1,7 @@
-## Hi👋, I am Gunn Arora
+<h1 align="center">Hello Everyone !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gunn Arora</h1>
+<h3 align="center">A passionate Full Stack Developer and an Open-Source Enthusiast </h3>
+<br>
+[![GitHub gunn333](https://img.shields.io/github/followers/gunn333?label=follow&style=social)(https://github.com/gunn333)
 
  I am a Full stack Web Developer | 3rd Year Undergraduate Computer Science Student
 
