@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=gunn333&label=Visitors&color=blue&style=plastic" alt="gunn333" /> 
 
 - 👨‍💻 3rd Year Ungraduate Student @Chitkara University
-- 🌱 I’m currently learning about mern stack
+- 🌱 I’m currently learning about MERN stack
 - 👯 I’m looking to collaborate on projects of Web Development and Artificial Intelligence and Machine Learning 
 - 💬 Ask me about anything, Happy to help :)
 - 😄 Pronouns: She/Her
