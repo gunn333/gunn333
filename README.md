@@ -6,12 +6,13 @@
 [![Linkedin: Gunn Arora](https://img.shields.io/badge/-Gunn%20Arora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunn-arora-3a0a9b291/)](https://www.linkedin.com/in/gunn-arora-3a0a9b291/)
 <img src="https://komarev.com/ghpvc/?username=gunn333&label=Visitors&color=blue&style=plastic" alt="gunn333" /> 
 
-- 👨‍💻 3rd Year Ungraduate Student @Chitkara University
-- 🌱 I’m currently learning about MERN stack
-- 👯 I’m looking to collaborate on projects of Web Development and Artificial Intelligence and Machine Learning 
-- 💬 Ask me about anything, Happy to help :)
+- 👨‍💻 3rd Year Undergraduate Student @ Chitkara University
+- 🌱 Currently learning MERN stack
+- 💼 Working on the MommyMentor project
+- 👯 Looking to collaborate on Web Development, AI, and Machine Learning projects
+- 💬 Ask me about anything, I'm happy to help!
 - 😄 Pronouns: She/Her
-- 📫 How to Reach me : gunn333.be22@chitkara.edu.in
+- 📫 Reach me at: gunn333.be22@chitkara.edu.in
 - ⚡ Fun fact: Born to be a writer✍🏻, forced to be a coder👩🏻‍💻
 
 ### Connect with me here
@@ -32,14 +33,41 @@
 <img align="left" alt="Gunn Arora | Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
 </a>
 
-<a href="https://medium.com/@nikhilshrivastava175" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gunn333" height="25" width="25" />
-</a>   
+<br><br>
+
+### 🌟 Featured Projects
+
+1. **[MommyMentor](https://github.com/gunn333/MommyMentor)**: Child care and development platform with interactive features.
+
+### 🏆 GitHub Trophies
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gunn333&theme=onedark&row=1&column=6" />
+</p>
 
 <br>
 
-<br>
-<br>
+### 🔥 My Stats
+
 <br>
 
 <p align="center">
 <img height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=gunn333&theme=tokyonight" alt="gunn333"/> </p>
+
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gunn333&show_icons=true&theme=tokyonight" alt="My github stats" height="160"/></p>
+
+<p align="center">
+<img align="right" height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunn333&layout=compact&theme=tokyonight" alt="languages"/> 
+</p>
+
+<br><br><br><br><br><br><br><br>
+
+### 🎨 Fun with Code
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3og0IPMezpcQAj8ZVu/giphy.gif" width="200"/>
+</p>
