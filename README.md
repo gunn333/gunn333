@@ -47,7 +47,8 @@
 
 1. **[NeuroVision](https://multiple-disease-prediction-apse-aiml.streamlit.app/)** : Multiple Disease Prediction using AI/ML
 2. **[KBC](https://gracygulati7.github.io/KBC/)** : A Fun & Interactive Quiz Inspired Kaun Banega Carorepati Show
-3. 
+3. **[Devotions](https://gracygulati7.github.io/DEVOTIONS/)** : A fully responsive quotes website with intriguing features build using HTML, CSS, and JavaScript.
+4. 
 
 ### 🏆 GitHub Trophies
 <br>
