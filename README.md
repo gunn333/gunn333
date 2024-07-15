@@ -6,7 +6,6 @@
 [![Linkedin: Gunn Arora](https://img.shields.io/badge/-Gunn%20Arora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunn-arora-3a0a9b291/)](https://www.linkedin.com/in/gunn-arora-3a0a9b291/)
 <img src="https://komarev.com/ghpvc/?username=gunn333&label=Visitors&color=blue&style=plastic" alt="gunn333" /> 
 
- I am a Full stack Web Developer | 3rd Year Undergraduate Computer Science Student
 - 👨‍💻 3rd Year Ungraduate Student @Chitkara University
 - 🌱 I’m currently learning about mern stack
 - 👯 I’m looking to collaborate on projects of Web Development and Artificial Intelligence and Machine Learning 
