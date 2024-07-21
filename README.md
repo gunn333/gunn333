@@ -80,5 +80,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/3og0IPMezpcQAj8ZVu/giphy.gif" width="200"/>
 </p>
