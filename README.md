@@ -70,7 +70,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gunn333&show_icons=true&theme=tokyonight" alt="My github stats" height="160"/></p>
 
 <p align="center">
-<img align="right" height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunn333&layout=compact&theme=tokyonight" alt="languages"/> 
+<img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunn333&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="languages"/> 
 </p>
 
 <br><br><br><br><br><br><br><br>
