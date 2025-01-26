@@ -72,16 +72,3 @@
 <p align="center">
 <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunn333&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="languages"/> 
 </p>
-
-<br><br><br><br><br><br><br><br>
-
-### 🎨 Fun with Code
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
-  &emsp;
-  &emsp;
-  &emsp;
-  &emsp;
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
-</p>
