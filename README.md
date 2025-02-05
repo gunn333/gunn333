@@ -21,7 +21,6 @@
 - 💬 Ask me about anything, I'm happy to help!
 - 😄 Pronouns: She/Her
 - 📫 Reach me at: gunn333.be22@chitkara.edu.in
-- ⚡ Fun fact: Born to be a writer✍🏻, forced to be a coder👩🏻‍💻
 
 ### Connect with me here
 
